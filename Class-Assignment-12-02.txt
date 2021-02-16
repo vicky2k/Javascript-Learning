@@ -1,0 +1,9 @@
+A Comparison between Amazon Echo and Google Home.
+Explain how we can use either Amazon Echo or Google Home in our homes.
+State what kind of interconnection is possible with those devices.
+
+Amazon Echo and Google Home are both smart speakers that respond to voice commands using Artiicial Intelligence Technologies from Amazon called Amazon Alexa and Google-Google Assistant Respectively. 
+
+Amazon Echo or Google Home can be used in our homes as regular devices like music players that respond to our Voice Commands to select or switch music tracks, Ring Alarms and Reminders etc. 
+
+The kind of interconnection possible in these devices are mostly Personal Area Networks (PAN) and  includes Wireless Networking which is usually The WIFI Dual Bands of (2.4GHz or 5GHz) and then Bluetooth Networking. 
