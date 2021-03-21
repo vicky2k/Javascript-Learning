@@ -1,0 +1,29 @@
+
+html {
+    text-align: centre;
+    padding-top: 1em;
+    background: #f6ddda;
+}
+
+button {
+    padding:1em 1.2em;
+    background: #eb6ba0;
+    color: white;
+    font-size: 20px;
+    border-radius: .3em;
+    border: none;
+    border-bottom: 4px solid #aa4b72;
+    cursor: pointer;
+}
+section {
+    max-width: 700px;
+    margin: 2em auto;
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #2b2c3b;
+    text-align: left;
+    display: none;
+}
+section.visible {
+    display: block;
+}
